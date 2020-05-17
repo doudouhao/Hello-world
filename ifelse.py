@@ -13,6 +13,7 @@ bmi = weight / (height * height)
 #     print("肥胖")
 # else:
 #     print("严重肥胖")
+#
 if 18.5 > bmi:
     print("过轻")
 elif 18.5 <= bmi < 25:
